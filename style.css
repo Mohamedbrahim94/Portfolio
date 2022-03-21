@@ -10,7 +10,7 @@
             header {
                 background-color: black;
                 width: 100%;
-                position: fixed;
+                position: relative;
                 z-index: 999;
                 display: flex;
                 justify-content: space-between;
@@ -52,7 +52,7 @@
                 min-height: 100vh;
                 display: flex;
                 align-items: center;
-                background: url(assets/Header.jpeg) no-repeat;
+                background: url(assets/Porche.jpg) no-repeat;
                 background-size: cover;
                 background-position: left left;
                 background-attachment: fixed;
